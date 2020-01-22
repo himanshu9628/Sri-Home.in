@@ -1,0 +1,8 @@
+.bg-img{
+    background-image: url(images/realbg.jpg);
+    min-height:380px;
+     background-position:center;
+     background-repeat:  no-repeat;
+     background-attachment: fixed;
+     background-size:center;
+ }
